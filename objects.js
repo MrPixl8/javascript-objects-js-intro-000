@@ -1,5 +1,10 @@
 var playlist = {
   artist: "Jesus"
+  songTitle: "Lets get smiting"
 }
 
-meals.snack = "BigD"
+function updatePlaylist(playlist,artistName, songTitle) {
+  playlist[artistName] = 
+}
+
+
